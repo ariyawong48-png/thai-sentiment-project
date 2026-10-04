@@ -1,0 +1,14 @@
+[project]
+name = "thai-sentiment-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "datasets>=5.0.1",
+    "django>=6.1.1",
+    "matplotlib>=3.11.2",
+    "pythainlp>=5.3.8",
+    "scikit-learn>=1.9.1",
+    "torch>=2.14.1",
+]
